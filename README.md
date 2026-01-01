@@ -32,6 +32,6 @@ Install dependencies:
 npm install
 Start the frontend:
 npm run dev
-Live & Relevant Links
+Live & Relevant Links:
 🌐Live Link: https://serene-blancmange-088305.netlify.app/
 💻Github Repo Link https://github.com/hasan-soft/Assignment-08

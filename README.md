@@ -24,14 +24,6 @@ tailwindcss
 How to Run Locally
 Follow these steps to run the project on your local machine:
 
-Clone the repository:
-git clone https://github.com/mehedihasan770/my-assignment-8.git
-Navigate to the project directory:
-cd my-assignment-8
-Install dependencies:
-npm install
-Start the frontend:
-npm run dev
 Live & Relevant Links:
 🌐Live Link: https://serene-blancmange-088305.netlify.app/
 💻Github Repo Link https://github.com/hasan-soft/Assignment-08

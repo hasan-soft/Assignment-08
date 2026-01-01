@@ -21,8 +21,6 @@ react-spinners
 react-toastify
 recharts
 tailwindcss
-How to Run Locally
-Follow these steps to run the project on your local machine:
 
 Live & Relevant Links:
 🌐Live Link: https://serene-blancmange-088305.netlify.app/
